@@ -6584,7 +6584,7 @@ for dynamic gain control</text>
 <text x="45.72" y="-5.08" size="1.778" layer="97">Castellated IMU breakout</text>
 <text x="38.1" y="83.82" size="2.54" layer="97" font="vector" ratio="15">Vref Generator and
 Bypass Capacitors</text>
-<text x="99.06" y="185.42" size="7.62" layer="97" font="vector" ratio="15">Maggie PPG Circuit</text>
+<text x="99.06" y="185.42" size="7.62" layer="97" font="vector" ratio="15">Kick Jr PPG Circuit</text>
 <text x="190.5" y="15.24" size="4.572" layer="97" font="vector" ratio="15">Real-Time Clock (RTC)</text>
 <text x="226.06" y="-12.7" size="1.27" layer="97">I2C Address = 0x68h</text>
 <text x="190.5" y="-12.7" size="1.27" layer="97">Back-up
