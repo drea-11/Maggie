@@ -1,5 +1,11 @@
+#include "kickJrPPG.h"
+
+
+kickjrPPG ppg:
 void setup() {
   // put your setup code here, to run once:
+ // serial.begin(96000):
+  
 
 }
 
